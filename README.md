@@ -1,5 +1,12 @@
 # IMDb Clone
 
+
+
+https://github.com/user-attachments/assets/07775855-44bb-43b8-882f-18a82cde7bb0
+
+
+
+
 ## Live Demo
 Check out the live website [here](https://imdb-clone-one-rho.vercel.app/).
 
